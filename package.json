@@ -1,0 +1,21 @@
+{
+  "name": "coop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shashank Mestry",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "ethers": "^5.7.0",
+    "hardhat": "^2.10.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^16.0.2",
+    "hardhat-contract-sizer": "^2.6.1"
+  }
+}
